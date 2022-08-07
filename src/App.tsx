@@ -1,16 +1,11 @@
 import React from 'react';
 
 function App() {
-  return (
-      <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-      >
-          Learn React!
-      </a>
-  );
+    return (
+        <h1 className="py-2 px-4 text-white bg-black/50 font-bold">
+            Hello!
+        </h1>
+    );
 }
 
 export default App;

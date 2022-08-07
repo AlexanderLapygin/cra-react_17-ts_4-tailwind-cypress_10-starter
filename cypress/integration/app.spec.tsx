@@ -2,5 +2,5 @@
 
 it('should work', () => {
     cy.visit('/');
-    cy.get('a').should('have.text', 'Learn React!');
+    cy.findByRole('heading').should('have.text', 'Hello!');
 });
