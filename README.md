@@ -4,8 +4,6 @@
     </a>
 </div>
 
-UNDER_DEVELOPMENT
-
 # CRA on TypeScript starter with Tailwind CSS with UI testing on Cypress with Cypress Testing Library
 
 ## Feature tags
