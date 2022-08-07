@@ -31,6 +31,13 @@ UNDER_DEVELOPMENT
 
 ---
 
+## Direct ancestors
+
+[***- tailwind***: cra-react_17-ts_4-cypress_10-starter](https://github.com/AlexanderLapygin/cra-react_17-ts_4-cypress_10-starter)
+
+
+---
+
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
