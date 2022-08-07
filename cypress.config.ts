@@ -7,5 +7,6 @@ export default defineConfig({
     },
     baseUrl: "http://localhost:3000",
     specPattern: 'cypress/integration',
+    watchForFileChanges: true
   },
 });
