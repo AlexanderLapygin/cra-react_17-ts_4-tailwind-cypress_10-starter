@@ -6,7 +6,7 @@
 
 UNDER_DEVELOPMENT
 
-# CRA on TypeScript starter with Tilewind CSS with UI testing on Cypress with Cypress Testing Library
+# CRA on TypeScript starter with Tailwind CSS with UI testing on Cypress with Cypress Testing Library
 
 ## Feature tags
 
@@ -19,7 +19,7 @@ UNDER_DEVELOPMENT
 - starter
 - template
 - testing
-- tilewind
+- tailwind
 - typescript
 - ui
 
