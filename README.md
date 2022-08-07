@@ -24,7 +24,7 @@
 - React: 17
 - TypeScript: 4
 - Cypress: 10
-- Tailwind: 3
+- Tailwind CSS: 3
 
 ---
 
