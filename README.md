@@ -22,8 +22,9 @@
 ## Key versions
 
 - React: 17
-- Cypress: 10
 - TypeScript: 4
+- Cypress: 10
+- Tailwind: 3
 
 ---
 
